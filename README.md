@@ -13,7 +13,7 @@ npm install vue-shotclass
 
 ```javascript
 …
-import VueShotclass from './index'
+import VueShotclass from 'vue-shotclass'
 Vue.use(VueShotclass)
 …
 

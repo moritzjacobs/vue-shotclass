@@ -1,6 +1,9 @@
 <template>
 	<div class="vue-shotclass-demo">
 		<img class="logo" src="../assets/logo.png">
+
+		<a href="https://github.com/moritzjacobs/vue-shotclass/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+
 		<div class="example1">
 			<h1 v-shotclass="'animation-class'">vue-shotclass</h1>
 			<h2 @click="$shotclass('animation-class', $event)">Click me!</h2>

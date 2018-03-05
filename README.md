@@ -17,6 +17,8 @@ Vue.use(VueShotclass)
 
 ```
 
+[Check out the example](https://moritzjacobs.github.io/vue-shotclass/)
+
 ## Development
 
 ``` bash

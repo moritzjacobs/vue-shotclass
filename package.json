@@ -1,8 +1,9 @@
 {
   "name": "vue-shotclass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom vue-directive for one-off css animations using classes",
   "author": "Moritz Jacobs <mail@moritzjacobs.de>",
+  "main": "src/index.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",

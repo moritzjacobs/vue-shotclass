@@ -1,3 +1,5 @@
+![vue-shotclass Logo](https://raw.githubusercontent.com/moritzjacobs/vue-shotclass/master/src/assets/logo.png)
+
 # vue-shotclass
 
 > A custom vue-directive for one-off animation classes
